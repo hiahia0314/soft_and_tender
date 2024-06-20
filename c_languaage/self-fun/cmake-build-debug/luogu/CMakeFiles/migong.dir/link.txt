@@ -1,0 +1,3 @@
+C:\Users\23125\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -E rm -f CMakeFiles\migong.dir/objects.a
+C:\Users\23125\AppData\Local\Programs\CLion\bin\mingw\bin\ar.exe qc CMakeFiles\migong.dir/objects.a @CMakeFiles\migong.dir\objects1.rsp
+C:\Users\23125\AppData\Local\Programs\CLion\bin\mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\migong.dir/objects.a -Wl,--no-whole-archive -o migong.exe -Wl,--out-implib,libmigong.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\migong.dir\linkLibs.rsp

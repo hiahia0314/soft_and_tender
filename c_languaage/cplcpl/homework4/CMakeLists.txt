@@ -1,0 +1,8 @@
+add_executable(matrix matrix.c)
+add_executable(formation formation.c)
+add_executable(soduku soduku.c)
+add_executable(mines mines.c)
+add_executable(trace trace.c)
+add_executable(statistics statistics.c)
+add_executable(obstacle obstacle.c)
+add_executable(life life.c)

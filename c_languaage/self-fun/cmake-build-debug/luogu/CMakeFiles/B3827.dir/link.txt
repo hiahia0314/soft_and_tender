@@ -1,0 +1,3 @@
+C:\Users\23125\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -E rm -f CMakeFiles\B3827.dir/objects.a
+C:\Users\23125\AppData\Local\Programs\CLion\bin\mingw\bin\ar.exe qc CMakeFiles\B3827.dir/objects.a @CMakeFiles\B3827.dir\objects1.rsp
+C:\Users\23125\AppData\Local\Programs\CLion\bin\mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\B3827.dir/objects.a -Wl,--no-whole-archive -o B3827.exe -Wl,--out-implib,libB3827.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\B3827.dir\linkLibs.rsp

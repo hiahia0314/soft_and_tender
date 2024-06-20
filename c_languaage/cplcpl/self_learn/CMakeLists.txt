@@ -1,0 +1,5 @@
+add_executable(geshi geshi.c)
+add_executable(jiec jiec.c)
+add_executable(primes primes.c)
+add_executable(tianshudu tianshudu.c)
+add_executable(plus plus.c)

@@ -1,0 +1,4 @@
+add_executable(strs_cat strs_cat.c)
+add_executable(strs_interleaf strs_interleaf.c)
+add_executable(parse parse.c)
+add_executable(tokenizer tokenizer.c)

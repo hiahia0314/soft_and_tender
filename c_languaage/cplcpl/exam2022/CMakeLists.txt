@@ -1,0 +1,5 @@
+add_executable(checker checker.c)
+add_executable(broshi broshi.c)
+add_executable(sort11 sort.c)
+add_executable(life2 life2.c)
+add_executable(score1 score.c)

@@ -1,0 +1,3 @@
+C:\Users\23125\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -E rm -f CMakeFiles\3pigs.dir/objects.a
+C:\Users\23125\AppData\Local\Programs\CLion\bin\mingw\bin\ar.exe qc CMakeFiles\3pigs.dir/objects.a @CMakeFiles\3pigs.dir\objects1.rsp
+C:\Users\23125\AppData\Local\Programs\CLion\bin\mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\3pigs.dir/objects.a -Wl,--no-whole-archive -o 3pigs.exe -Wl,--out-implib,lib3pigs.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\3pigs.dir\linkLibs.rsp

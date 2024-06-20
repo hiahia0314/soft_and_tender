@@ -1,0 +1,3 @@
+C:\Users\23125\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -E rm -f CMakeFiles\p1271.dir/objects.a
+C:\Users\23125\AppData\Local\Programs\CLion\bin\mingw\bin\ar.exe qc CMakeFiles\p1271.dir/objects.a @CMakeFiles\p1271.dir\objects1.rsp
+C:\Users\23125\AppData\Local\Programs\CLion\bin\mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\p1271.dir/objects.a -Wl,--no-whole-archive -o p1271.exe -Wl,--out-implib,libp1271.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\p1271.dir\linkLibs.rsp

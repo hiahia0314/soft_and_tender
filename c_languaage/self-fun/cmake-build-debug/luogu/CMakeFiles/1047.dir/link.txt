@@ -1,0 +1,3 @@
+C:\Users\23125\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -E rm -f CMakeFiles\1047.dir/objects.a
+C:\Users\23125\AppData\Local\Programs\CLion\bin\mingw\bin\ar.exe qc CMakeFiles\1047.dir/objects.a @CMakeFiles\1047.dir\objects1.rsp
+C:\Users\23125\AppData\Local\Programs\CLion\bin\mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\1047.dir/objects.a -Wl,--no-whole-archive -o 1047.exe -Wl,--out-implib,lib1047.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\1047.dir\linkLibs.rsp

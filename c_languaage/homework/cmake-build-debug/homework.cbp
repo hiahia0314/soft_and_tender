@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="homework"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/chengxvyuan/homework/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="homework">
+				<Option output="D:/chengxvyuan/homework/cmake-build-debug/homework.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/homework/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 homework"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="homework/fast">
+				<Option output="D:/chengxvyuan/homework/cmake-build-debug/homework.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/homework/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 homework/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bubbleaa">
+				<Option output="D:/chengxvyuan/homework/cmake-build-debug/bubbleaa.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/homework/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 bubbleaa"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bubbleaa/fast">
+				<Option output="D:/chengxvyuan/homework/cmake-build-debug/bubbleaa.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/homework/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 bubbleaa/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="decimal">
+				<Option output="D:/chengxvyuan/homework/cmake-build-debug/decimal.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/homework/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 decimal"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="decimal/fast">
+				<Option output="D:/chengxvyuan/homework/cmake-build-debug/decimal.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/homework/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 decimal/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="qianqian">
+				<Option output="D:/chengxvyuan/homework/cmake-build-debug/qianqian.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/homework/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 qianqian"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="qianqian/fast">
+				<Option output="D:/chengxvyuan/homework/cmake-build-debug/qianqian.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/homework/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 qianqian/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="b-ternary-1">
+				<Option output="D:/chengxvyuan/homework/cmake-build-debug/b-ternary-1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/homework/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 b-ternary-1"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="b-ternary-1/fast">
+				<Option output="D:/chengxvyuan/homework/cmake-build-debug/b-ternary-1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/homework/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 b-ternary-1/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="b-ternary-2">
+				<Option output="D:/chengxvyuan/homework/cmake-build-debug/b-ternary-2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/homework/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 b-ternary-2"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="b-ternary-2/fast">
+				<Option output="D:/chengxvyuan/homework/cmake-build-debug/b-ternary-2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/homework/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 b-ternary-2/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bubble-sort">
+				<Option output="D:/chengxvyuan/homework/cmake-build-debug/bubble-sort.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/homework/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 bubble-sort"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="bubble-sort/fast">
+				<Option output="D:/chengxvyuan/homework/cmake-build-debug/bubble-sort.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/homework/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 bubble-sort/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="palindrome-2">
+				<Option output="D:/chengxvyuan/homework/cmake-build-debug/palindrome-2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/homework/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 palindrome-2"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="palindrome-2/fast">
+				<Option output="D:/chengxvyuan/homework/cmake-build-debug/palindrome-2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/homework/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 palindrome-2/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="quick-sort">
+				<Option output="D:/chengxvyuan/homework/cmake-build-debug/quick-sort.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/homework/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 quick-sort"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="quick-sort/fast">
+				<Option output="D:/chengxvyuan/homework/cmake-build-debug/quick-sort.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/homework/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 quick-sort/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mary">
+				<Option output="D:/chengxvyuan/homework/cmake-build-debug/mary.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/homework/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 mary"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mary/fast">
+				<Option output="D:/chengxvyuan/homework/cmake-build-debug/mary.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/homework/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 mary/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/chengxvyuan/homework/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/chengxvyuan/homework/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/homework/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/chengxvyuan/homework/b-ternary-1.c">
+			<Option target="b-ternary-1"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/homework/b-ternary-2.c">
+			<Option target="b-ternary-2"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/homework/bubble-sort.c">
+			<Option target="bubble-sort"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/homework/bubbleaa.c">
+			<Option target="bubbleaa"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/homework/decimal.c">
+			<Option target="decimal"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/homework/main.c">
+			<Option target="homework"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/homework/mary.c">
+			<Option target="mary"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/homework/palindrome-2.c">
+			<Option target="palindrome-2"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/homework/qianqian.c">
+			<Option target="qianqian"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/homework/quick-sort.c">
+			<Option target="quick-sort"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/homework/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

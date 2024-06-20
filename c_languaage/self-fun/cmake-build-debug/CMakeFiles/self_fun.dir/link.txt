@@ -1,0 +1,3 @@
+C:\Users\23125\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -E rm -f CMakeFiles\self_fun.dir/objects.a
+C:\Users\23125\AppData\Local\Programs\CLion\bin\mingw\bin\ar.exe qc CMakeFiles\self_fun.dir/objects.a @CMakeFiles\self_fun.dir\objects1.rsp
+C:\Users\23125\AppData\Local\Programs\CLion\bin\mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\self_fun.dir/objects.a -Wl,--no-whole-archive -o self_fun.exe -Wl,--out-implib,libself_fun.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\self_fun.dir\linkLibs.rsp

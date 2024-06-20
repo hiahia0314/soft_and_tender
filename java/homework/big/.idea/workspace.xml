@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c51a22c5-ff8d-4add-afc8-fa935f094354" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/3af6304e9d9940d4b4eb5ec8c95ae864/402-perm-java/src/main/java/Perm.java" beforeDir="false" afterPath="$PROJECT_DIR$/3af6304e9d9940d4b4eb5ec8c95ae864/402-perm-java/src/main/java/Perm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bbbug/401-jvm-lab02-classfilereader/src/main/java/edu/nju/ArchivedEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/bbbug/401-jvm-lab02-classfilereader/src/main/java/edu/nju/ArchivedEntry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bbbug/401-jvm-lab02-classfilereader/src/main/java/edu/nju/ClassFileReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/bbbug/401-jvm-lab02-classfilereader/src/main/java/edu/nju/ClassFileReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bbbug/401-jvm-lab02-classfilereader/src/main/java/edu/nju/DirEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/bbbug/401-jvm-lab02-classfilereader/src/main/java/edu/nju/DirEntry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bbbug/401-jvm-lab02-classfilereader/src/main/java/edu/nju/Entry.java" beforeDir="false" afterPath="$PROJECT_DIR$/bbbug/401-jvm-lab02-classfilereader/src/main/java/edu/nju/Entry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bbbug/401-jvm-lab02-classfilereader/src/main/java/edu/nju/WildEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/bbbug/401-jvm-lab02-classfilereader/src/main/java/edu/nju/WildEntry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/big_1/400-jvm-lab01-commandlineutil/src/main/java/edu/nju/CommandLineUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/big_1/400-jvm-lab01-commandlineutil/src/main/java/edu/nju/CommandLineUtil.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/big_1" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2gtQwAgcbGNtKcAOfIzaE6TFdqv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/chengxvyuan/java/homework/big/big_1/400-jvm-lab01-commandlineutil"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-22-openjdk-22-3183f394aec4-bad0321e" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="c51a22c5-ff8d-4add-afc8-fa935f094354" name="更改" comment="" />
+      <created>1716514629825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716514629825</updated>
+    </task>
+    <servers />
+  </component>
+</project>

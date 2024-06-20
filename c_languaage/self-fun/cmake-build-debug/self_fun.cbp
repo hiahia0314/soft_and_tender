@@ -1,0 +1,2066 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="self_fun"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\luogu\;CMake Files\self-learn\;CMake Files\stdlib\;CMake Files\string\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="self_fun">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/self_fun.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/Makefile&quot;  VERBOSE=1 self_fun"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="self_fun/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/self_fun.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/Makefile&quot;  VERBOSE=1 self_fun/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="trail">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/trail.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/Makefile&quot;  VERBOSE=1 trail"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="trail/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/trail.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/Makefile&quot;  VERBOSE=1 trail/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="taotao">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/taotao.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 taotao"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="taotao/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/taotao.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 taotao/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lamp">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/lamp.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 lamp"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="lamp/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/lamp.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 lamp/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1047">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/1047.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 1047"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1047/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/1047.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 1047/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="migong">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/migong.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 migong"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="migong/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/migong.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 migong/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1022">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P1022.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P1022"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1022/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P1022.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P1022/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1086">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P1086.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P1086"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1086/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P1086.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P1086/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="B3827">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/B3827.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 B3827"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="B3827/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/B3827.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 B3827/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="B3680">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/B3680.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 B3680"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="B3680/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/B3680.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 B3680/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1028">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P1028.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P1028"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1028/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P1028.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P1028/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1689">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P1689.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P1689"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1689/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P1689.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P1689/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1451">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P1451.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P1451"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1451/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P1451.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P1451/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="B3625">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/B3625.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 B3625"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="B3625/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/B3625.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 B3625/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1079">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P1079.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P1079"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1079/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P1079.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P1079/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1972">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P1972.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P1972"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1972/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P1972.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P1972/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p1271">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/p1271.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 p1271"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p1271/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/p1271.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 p1271/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1376">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P1376.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P1376"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1376/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P1376.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P1376/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1179">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P1179.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P1179"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1179/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P1179.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P1179/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1071">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P1071.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P1071"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1071/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P1071.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P1071/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p1003">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/p1003.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 p1003"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p1003/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/p1003.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 p1003/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1109">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P1109.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P1109"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1109/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P1109.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P1109/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p1012">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/p1012.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 p1012"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p1012/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/p1012.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 p1012/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1115">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P1115.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P1115"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1115/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P1115.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P1115/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1059">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P1059.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P1059"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1059/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P1059.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P1059/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P3397">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P3397.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P3397"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P3397/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P3397.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P3397/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1145">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P1145.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P1145"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1145/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P1145.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P1145/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1049">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P1049.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P1049"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1049/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P1049.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P1049/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1017jing">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/1017jing.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 1017jing"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1017jing/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/1017jing.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 1017jing/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="B3849">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/B3849.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 B3849"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="B3849/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/B3849.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 B3849/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P2001zhuangtai">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P2001zhuangtai.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P2001zhuangtai"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P2001zhuangtai/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P2001zhuangtai.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P2001zhuangtai/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P2005ztp">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P2005ztp.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P2005ztp"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P2005ztp/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P2005ztp.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P2005ztp/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="guohezu">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/guohezu.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 guohezu"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="guohezu/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/guohezu.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 guohezu/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="happyjin">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/happyjin.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 happyjin"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="happyjin/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/happyjin.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 happyjin/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1125">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P1125.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P1125"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1125/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P1125.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P1125/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="redcard">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/redcard.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 redcard"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="redcard/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/redcard.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 redcard/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1616">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P1616.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P1616"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1616/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P1616.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P1616/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1015">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P1015.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P1015"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1015/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P1015.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P1015/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="B3630">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/B3630.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 B3630"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="B3630/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/B3630.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 B3630/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1024">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P1024.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P1024"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1024/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P1024.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P1024/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="taijie">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/taijie.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 taijie"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="taijie/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/taijie.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 taijie/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1276">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P1276.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P1276"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1276/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P1276.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P1276/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1823">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P1823.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P1823"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="P1823/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/luogu/P1823.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/luogu"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 P1823/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/luogu/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p1020">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/self-learn/p1020.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/self-learn"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/self-learn/Makefile&quot;  VERBOSE=1 p1020"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/self-learn/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/self-learn/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/self-learn/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="p1020/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/self-learn/p1020.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/self-learn"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/self-learn/Makefile&quot;  VERBOSE=1 p1020/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/self-learn/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/self-learn/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/self-learn/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="digui">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/self-learn/digui.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/self-learn"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/self-learn/Makefile&quot;  VERBOSE=1 digui"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/self-learn/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/self-learn/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/self-learn/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="digui/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/self-learn/digui.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/self-learn"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/self-learn/Makefile&quot;  VERBOSE=1 digui/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/self-learn/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/self-learn/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/self-learn/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3pigs">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/self-learn/3pigs.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/self-learn"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/self-learn/Makefile&quot;  VERBOSE=1 3pigs"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/self-learn/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/self-learn/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/self-learn/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="3pigs/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/self-learn/3pigs.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/self-learn"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/self-learn/Makefile&quot;  VERBOSE=1 3pigs/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/self-learn/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/self-learn/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/self-learn/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="searchmine">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/self-learn/searchmine.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/self-learn"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/self-learn/Makefile&quot;  VERBOSE=1 searchmine"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/self-learn/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/self-learn/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/self-learn/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="searchmine/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/self-learn/searchmine.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/self-learn"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/self-learn/Makefile&quot;  VERBOSE=1 searchmine/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/self-learn/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/self-learn/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/self-learn/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="some">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/stdlib/some.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/stdlib"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/stdlib/Makefile&quot;  VERBOSE=1 some"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/stdlib/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/stdlib/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/stdlib/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="some/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/stdlib/some.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/stdlib"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/stdlib/Makefile&quot;  VERBOSE=1 some/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/stdlib/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/stdlib/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/stdlib/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="stringfun">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/string/stringfun.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/string"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/string/Makefile&quot;  VERBOSE=1 stringfun"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/string/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/string/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/string/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="stringfun/fast">
+				<Option output="D:/chengxvyuan/self-fun/cmake-build-debug/string/stringfun.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/chengxvyuan/self-fun/cmake-build-debug/string"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/string/Makefile&quot;  VERBOSE=1 stringfun/fast"/>
+					<CompileFile command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/string/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/string/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/23125/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;D:/chengxvyuan/self-fun/cmake-build-debug/string/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/chengxvyuan/self-fun/luogu/1017jing.c">
+			<Option target="1017jing"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/luogu/1047.c">
+			<Option target="1047"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/luogu/1145plus.c">
+			<Option target="taotao"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/luogu/B3625.c">
+			<Option target="B3625"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/luogu/B3630.c">
+			<Option target="B3630"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/luogu/B3680.c">
+			<Option target="B3680"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/luogu/B3827.c">
+			<Option target="B3827"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/luogu/B3849.c">
+			<Option target="B3849"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/luogu/P10#15.c">
+			<Option target="P1015"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/luogu/P1022.c">
+			<Option target="P1022"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/luogu/P1024.c">
+			<Option target="P1024"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/luogu/P1028.c">
+			<Option target="P1028"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/luogu/P1049.c">
+			<Option target="P1049"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/luogu/P1059.c">
+			<Option target="P1059"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/luogu/P1071.c">
+			<Option target="P1071"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/luogu/P1079.c">
+			<Option target="P1079"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/luogu/P1086.c">
+			<Option target="P1086"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/luogu/P1109.c">
+			<Option target="P1109"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/luogu/P1115.c">
+			<Option target="P1115"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/luogu/P1125.c">
+			<Option target="P1125"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/luogu/P1145yuesefu.c">
+			<Option target="P1145"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/luogu/P1179.c">
+			<Option target="P1179"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/luogu/P1276.c">
+			<Option target="P1276"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/luogu/P1376.c">
+			<Option target="P1376"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/luogu/P1451.c">
+			<Option target="P1451"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/luogu/P1616.c">
+			<Option target="P1616"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/luogu/P1689.c">
+			<Option target="P1689"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/luogu/P1823.c">
+			<Option target="P1823"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/luogu/P1972.c">
+			<Option target="P1972"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/luogu/P2001zhuangtai.c">
+			<Option target="P2001zhuangtai"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/luogu/P2005ztp.c">
+			<Option target="P2005ztp"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/luogu/P3397.c">
+			<Option target="P3397"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/luogu/guohezu.c">
+			<Option target="guohezu"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/luogu/happyjin.c">
+			<Option target="happyjin"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/luogu/lamp.c">
+			<Option target="lamp"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/luogu/migong.c">
+			<Option target="migong"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/luogu/p1003.c">
+			<Option target="p1003"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/luogu/p1012.c">
+			<Option target="p1012"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/luogu/p1271.c">
+			<Option target="p1271"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/luogu/redcard.c">
+			<Option target="redcard"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/luogu/taijie.c">
+			<Option target="taijie"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/main.c">
+			<Option target="self_fun"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/mergesort.c">
+			<Option target="trail"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/self-learn/1020.c">
+			<Option target="p1020"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/self-learn/3pigs.c">
+			<Option target="3pigs"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/self-learn/digui.c">
+			<Option target="digui"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/self-learn/searchmine.c">
+			<Option target="searchmine"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/stdlib/some.c">
+			<Option target="some"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/string/stringfun.c">
+			<Option target="stringfun"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/luogu/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\luogu\"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/self-learn/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\self-learn\"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/stdlib/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\stdlib\"/>
+		</Unit>
+		<Unit filename="D:/chengxvyuan/self-fun/string/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\string\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

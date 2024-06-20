@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 3.26)
+project(homework C)
+
+set(CMAKE_C_STANDARD 11)
+
+add_executable(homework main.c)
+add_executable(bubbleaa bubbleaa.c)
+add_executable(decimal decimal.c)
+add_executable(qianqian qianqian.c)
+add_executable(b-ternary-1 b-ternary-1.c)
+add_executable(b-ternary-2 b-ternary-2.c)
+add_executable(bubble-sort bubble-sort.c)
+add_executable(palindrome-2 palindrome-2.c)
+add_executable(quick-sort quick-sort.c)
+add_executable(mary mary.c)

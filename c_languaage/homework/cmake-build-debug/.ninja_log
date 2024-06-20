@@ -1,0 +1,11 @@
+# ninja log v5
+2	108	7189873626327282	CMakeFiles/bubbleaa.dir/bubbleaa.c.obj	5f321b7bd56ad47e
+129	275	7189863761689255	bubbleaa.exe	8ebba304c0314b76
+2	111	7189923513314299	CMakeFiles/decimal.dir/decimal.c.obj	83267323bb9d866e
+3	123	7189908033283047	CMakeFiles/homework.dir/main.c.obj	918ee856f388b55
+112	265	7189923514832585	decimal.exe	95cfe718be20e624
+123	258	7189908034605988	homework.exe	8982e6dbe7cf3375
+0	124	7189931001178774	CMakeFiles/qianqian.dir/qianqian.c.obj	35aca3f71769f401
+125	275	7189931002649633	qianqian.exe	954cdde9caf4473d
+2	128	7189975619181541	CMakeFiles/qianqian.dir/qianqian.c.obj	35aca3f71769f401
+129	313	7189975620985385	qianqian.exe	954cdde9caf4473d

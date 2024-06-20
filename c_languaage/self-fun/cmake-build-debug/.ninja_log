@@ -1,0 +1,7 @@
+# ninja log v5
+0	90	7187348350626829	CMakeFiles/self_fun.dir/main.c.obj	c04f5aeab670822d
+92	262	7187348352265272	self_fun.exe	afbe4c7cfb1fc5e5
+2	88	7187348506245077	CMakeFiles/self_fun.dir/main.c.obj	c04f5aeab670822d
+89	231	7187348507623054	self_fun.exe	afbe4c7cfb1fc5e5
+2	113	7187349394794427	CMakeFiles/self_fun.dir/main.c.obj	c04f5aeab670822d
+113	238	7187349395989953	self_fun.exe	afbe4c7cfb1fc5e5

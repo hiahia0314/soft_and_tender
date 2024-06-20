@@ -1,0 +1,3 @@
+C:\Users\23125\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -E rm -f CMakeFiles\P1049.dir/objects.a
+C:\Users\23125\AppData\Local\Programs\CLion\bin\mingw\bin\ar.exe qc CMakeFiles\P1049.dir/objects.a @CMakeFiles\P1049.dir\objects1.rsp
+C:\Users\23125\AppData\Local\Programs\CLion\bin\mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\P1049.dir/objects.a -Wl,--no-whole-archive -o P1049.exe -Wl,--out-implib,libP1049.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\P1049.dir\linkLibs.rsp
